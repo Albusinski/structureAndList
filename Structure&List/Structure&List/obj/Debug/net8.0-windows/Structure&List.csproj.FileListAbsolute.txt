@@ -1,0 +1,16 @@
+C:\Users\Olek\Desktop\Structure&List\Structure&List\bin\Debug\net8.0-windows\Structure&List.exe
+C:\Users\Olek\Desktop\Structure&List\Structure&List\bin\Debug\net8.0-windows\Structure&List.deps.json
+C:\Users\Olek\Desktop\Structure&List\Structure&List\bin\Debug\net8.0-windows\Structure&List.runtimeconfig.json
+C:\Users\Olek\Desktop\Structure&List\Structure&List\bin\Debug\net8.0-windows\Structure&List.dll
+C:\Users\Olek\Desktop\Structure&List\Structure&List\bin\Debug\net8.0-windows\Structure&List.pdb
+C:\Users\Olek\Desktop\Structure&List\Structure&List\obj\Debug\net8.0-windows\Structure_List.Form1.resources
+C:\Users\Olek\Desktop\Structure&List\Structure&List\obj\Debug\net8.0-windows\Structure&List.csproj.GenerateResource.cache
+C:\Users\Olek\Desktop\Structure&List\Structure&List\obj\Debug\net8.0-windows\Structure&List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olek\Desktop\Structure&List\Structure&List\obj\Debug\net8.0-windows\Structure&List.AssemblyInfoInputs.cache
+C:\Users\Olek\Desktop\Structure&List\Structure&List\obj\Debug\net8.0-windows\Structure&List.AssemblyInfo.cs
+C:\Users\Olek\Desktop\Structure&List\Structure&List\obj\Debug\net8.0-windows\Structure&List.csproj.CoreCompileInputs.cache
+C:\Users\Olek\Desktop\Structure&List\Structure&List\obj\Debug\net8.0-windows\Structure&List.dll
+C:\Users\Olek\Desktop\Structure&List\Structure&List\obj\Debug\net8.0-windows\refint\Structure&List.dll
+C:\Users\Olek\Desktop\Structure&List\Structure&List\obj\Debug\net8.0-windows\Structure&List.pdb
+C:\Users\Olek\Desktop\Structure&List\Structure&List\obj\Debug\net8.0-windows\Structure&List.genruntimeconfig.cache
+C:\Users\Olek\Desktop\Structure&List\Structure&List\obj\Debug\net8.0-windows\ref\Structure&List.dll
