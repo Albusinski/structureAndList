@@ -160,7 +160,6 @@
             textBox4.Name = "textBox4";
             textBox4.Size = new Size(187, 271);
             textBox4.TabIndex = 0;
-            
             // 
             // groupBox3
             // 
@@ -200,7 +199,6 @@
             button9.Text = "Usuń bieżący";
             button9.UseVisualStyleBackColor = true;
             button9.Click += button9_Click;
-
             // 
             // textBox5
             // 
@@ -208,7 +206,7 @@
             textBox5.Name = "textBox5";
             textBox5.Size = new Size(74, 23);
             textBox5.TabIndex = 7;
-            textBox5.KeyUp += new KeyEventHandler(textBox5_KeyUp);
+            textBox5.KeyUp += textBox5_KeyUp;
             // 
             // button8
             // 
@@ -291,7 +289,6 @@
             statusStrip1.Size = new Size(463, 22);
             statusStrip1.TabIndex = 3;
             statusStrip1.Text = "statusStrip1";
-            statusStrip1.ItemClicked += statusStrip1_ItemClicked;
             // 
             // Form1
             // 

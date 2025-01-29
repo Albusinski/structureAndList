@@ -67,7 +67,7 @@ namespace Structure_List
         }
 
         public void pokazID(int id, TextBox tbID) {
-           
+
             if (id < 0 || id > list.Count - 1) return;
             d = list[id];
             tbID.Clear();
@@ -88,8 +88,9 @@ namespace Structure_List
         }
 
         private void button3_Click(object sender, EventArgs e) {
-            pokazRekord(idBiezacy, textBox4);
-            
+            pokazListe(textBox4);
+
+
         }
 
         private void button4_Click(object sender, EventArgs e) {
@@ -121,10 +122,16 @@ namespace Structure_List
             toolStripStatusLabel1.Text = list.Count.ToString();
         }
 
-        private void button10_Click(object sender, EventArgs e) { 
-            list.Clear(); 
+        private void button10_Click(object sender, EventArgs e) {
+            list.Clear();
             toolStripStatusLabel1.Text = list.Count.ToString();
             textBox4.Text = "";
+
+
+            if (list.Count == 0)
+            {
+                textBox5.Text = "";
+            }
         }
         private void textBox5_KeyUp(object sender, KeyEventArgs e) {
 
@@ -132,30 +139,17 @@ namespace Structure_List
             {
                 idBiezacy = 0;
             }
-            else { 
+            else {
                 idBiezacy = Convert.ToInt16(textBox5.Text) - 1;
             }
             pokazRekord(idBiezacy, textBox4);
 
-         
-            
         }
-
-       
+   
         public Form1()
         {
             InitializeComponent();
         }
 
-
-        private void groupBox1_Enter(object sender, EventArgs e)
-        {
-
-        }
-
-        private void statusStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
-        {
-
-        }
     }
 }
